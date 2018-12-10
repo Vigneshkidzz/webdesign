@@ -1,0 +1,26 @@
+.customDiv{
+	height: 100%;
+	text-align: center;
+}
+.key{
+	padding-right: 0px;
+	padding-left: 0px;
+	height: 50%;
+}
+html,body{
+	height: 100%;
+	margin: 0;
+}
+.fullHeight{
+	height: 100%;
+}
+.active{
+	height: 100%;
+}
+.active > img{
+	height: 100%;
+	width: 100%;
+}
+.c1{
+	background-color: green;
+}
